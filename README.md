@@ -2,6 +2,19 @@
 
 **Triple-threat agent architecture for AI-powered development and content production**
 
+## Repository
+
+**Primary (GitLab)**: http://100.77.225.85:8929/root/jumperx-stack
+**Mirror (GitHub)**: https://github.com/jmanhype/jumperx-stack
+
+```bash
+# Clone from GitLab (primary)
+git clone http://100.77.225.85:8929/root/jumperx-stack.git
+
+# Or from GitHub (mirror)
+git clone https://github.com/jmanhype/jumperx-stack.git
+```
+
 ## Overview
 
 Jumperx is a production-tested AI orchestration stack combining:
